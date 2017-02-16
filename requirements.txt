@@ -1,1 +1,4 @@
 pandas==0.19.2
+bokeh==0.12.4
+sqlite==3.13.0
+ipywidgets==5.2.2
